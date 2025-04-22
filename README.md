@@ -94,8 +94,6 @@ You can download the full PDF report from the link below:
 
 🔗 [Download PDF Report](https://github.com/Abdelrahman-AA/software-post-release-bug-predictors/blob/main/Analysis%20of%20some%20Factors%20Affecting%20Post-Release%20Number%20of%20Bugs%20in%20Software%20Applications.pdf)
 
-> *(Replace the above link with your actual file URL after upload)*
-
 ---
 
 ## 🧑‍💻 Study Author
