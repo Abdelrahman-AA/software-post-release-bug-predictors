@@ -1,4 +1,4 @@
-# 📘 software Post Release Bug Predictors
+# 📘 Software Post Release Bug Predictors
 **Analysis of Some Factors Affecting Post-Release Number of Bugs in Software Applications**
 _Statistical analysis of software metrics and their impact on the number of post-release bugs across 51 real-world Android applications._
 
