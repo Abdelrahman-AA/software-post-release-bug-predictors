@@ -94,12 +94,6 @@ You can view the full report from the link below:
 
 ---
 
-## 🧑‍💻 Study Author
-
-**Abdelrahman Abodief Mohamed**
-
----
-
 ## 📘 Suggested Improvements for Development Teams
 
 Based on this analysis, teams can reduce post-release bugs by:
@@ -109,6 +103,12 @@ Based on this analysis, teams can reduce post-release bugs by:
 - Refactoring to reduce **code complexity**
 - Monitoring and optimizing **testing time allocation**
 - Focusing on code quality metrics early in the development lifecycle
+
+---
+
+## 🧑‍💻 Study Author
+
+**Abdelrahman Abodief Mohamed**
 
 ---
 
