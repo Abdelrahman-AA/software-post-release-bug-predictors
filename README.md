@@ -88,11 +88,11 @@ Full dataset available in the PDF report.
 
 ---
 
-## 📥 Download Full Report
+## 📄 View Full Report
 
-You can download the full PDF report from the link below:
+You can view the full report from the link below:
 
-🔗 [Download PDF Report](https://github.com/Abdelrahman-AA/software-post-release-bug-predictors/blob/main/Analysis%20of%20some%20Factors%20Affecting%20Post-Release%20Number%20of%20Bugs%20in%20Software%20Applications.pdf)
+🔗 [View full Report](https://github.com/Abdelrahman-AA/software-post-release-bug-predictors/blob/main/Analysis%20of%20some%20Factors%20Affecting%20Post-Release%20Number%20of%20Bugs%20in%20Software%20Applications.pdf)
 
 ---
 
