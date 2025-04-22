@@ -2,8 +2,6 @@
 **Analysis of Some Factors Affecting Post-Release Number of Bugs in Software Applications**
 _Statistical analysis of software metrics and their impact on the number of post-release bugs across 51 real-world Android applications._
 
----
-
 ![Made with SPSS](https://img.shields.io/badge/Made%20With-SPSS-blueviolet?style=flat-square)
 ![Statistics Project](https://img.shields.io/badge/Type-Statistics%20Study-green?style=flat-square)
 ![Open Source Dataset](https://img.shields.io/badge/Data-Open%20Source-orange?style=flat-square)
